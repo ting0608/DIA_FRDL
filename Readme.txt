@@ -16,3 +16,5 @@ esp32wrover.menu.PartitionScheme.partitions.build.partitions=cc_frdl
 7. Change the credentials to your access point(ap) in code
 
 8. Connect to the same host and you are good to go.
+
+![]1.png
